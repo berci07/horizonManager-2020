@@ -1,5 +1,3 @@
-# horizonManager
-=======
 # horizonManager - Tweak your kernel easily
 
 ## horizonManager is a modified version of official Kernel Adiutor, which is originally developed by Willi Ye aka Grarak. All the credits goes to the original developer.
