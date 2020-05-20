@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 # horizonManager
 =======
 # horizonManager - Tweak your kernel easily
->>>>>>> 4e0cb3453243bb1ea0c1b75eff4d3267fc53c0a8
 
 ## horizonManager is a modified version of official Kernel Adiutor, which is originally developed by Willi Ye aka Grarak. All the credits goes to the original developer.
 
@@ -87,4 +85,3 @@ _(Many sys interface paths has been taken from his [UKM-Project](https://github.
     
     You should have received a copy of the GNU General Public License
     along with Kernel Adiutor.  If not, see <http://www.gnu.org/licenses/>.
-# horizonManager
